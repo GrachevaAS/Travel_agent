@@ -1,5 +1,5 @@
-# Travel_agent
-Compare the precise solution of travel agent's problem and the solution which uses the minimum spanning tree.
+# Travelling salesman
+Compare the precise solution of Travelling salesman's problem and the solution which uses the minimum spanning tree.
 
 Plan:
 1) Generate normal distribution of points using Box-Muller transform.
