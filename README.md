@@ -1,13 +1,13 @@
 # Travelling salesman
 Compare the precise solution of Travelling salesman's problem and the solution which uses the minimum spanning tree.
 
-**Plan**:
+**Plan**:  
 1) Generate normal distribution of points using Box-Muller transform.
 2) Find the way using MST.
 3) Find the shortest way with recursive algorithm.
 4) Compare the ways' lengths
 
-**Results**:
+**Results**:  
 n is number of towns(vertices in the graph)
 The firt column is index "shortest way's length / length of the way found using MST"
 The second number is standard deviation (number of experiments for each n = 5)
