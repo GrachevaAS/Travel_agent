@@ -8,9 +8,9 @@ Compare the precise solution of Travelling salesman's problem and the solution w
 4) Compare the ways' lengths
 
 **Results**:  
-n is number of towns(vertices in the graph)
-The firt column is index "shortest way's length / length of the way found using MST"
-The second number is standard deviation (number of experiments for each n = 5)
+n is number of towns(vertices in the graph).  
+The first column is the ratio of the shortest path length to the one found using MST.  
+The second number is standard deviation.
 
 n = 4 : 1	        (0)  
 n = 5 : 0.961545	(0.0503306)  
